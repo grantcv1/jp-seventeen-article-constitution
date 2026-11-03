@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="seventeen-article-constitution.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+  <act name="constitution" contains="originalVersion">
+    <meta>
+      <identification source="#gvergottini">
+        <FRBRWork>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/!main"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution"/>
+          <FRBRalias value="十七条憲法" name="short"/>
+          <FRBRdate date="0604-01-01" name="promulgation"/>
+          <FRBRauthor href="#shotoku" as="#author"/>
+          <FRBRcountry value="jp"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/lzh@0604-01-01/!main"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution/lzh@0604-01-01"/>
+          <FRBRdate date="0604-01-01" name="promulgation"/>
+          <FRBRauthor href="#shotoku" as="#author"/>
+          <FRBRlanguage language="lzh"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/lzh@0604-01-01/!main.xml"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution/lzh@0604-01-01.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini" as="#editor"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#gvergottini">
+        <TLCPerson eId="shotoku" href="/ontology/person/jp.princeShotoku" showAs="Prince Shōtoku (attributed)"/>
+        <TLCPerson eId="gvergottini" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+    </meta>
+    <coverPage>
+      <p class="enTitle">The Seventeen-Article Constitution</p>
+      <p class="enNote">Japan · 604 · Attributed to Prince Shōtoku</p>
+    </coverPage>
+    <preface xml:lang="lzh">
+      <p class="title"><docTitle>十七箇條憲法</docTitle></p>
+      <p class="author"><docProponent refersTo="#shotoku">聖德太子</docProponent></p>
+    </preface>
+    <body xml:lang="lzh">
+      <article eId="art_1">
+        <num>一曰。</num>
+        <content><p>以<span class="ten">㆑</span>和爲<span class="ten">㆑</span>貴。无<span class="ten">㆑</span>忤爲<span class="ten">㆑</span>宗。人皆有<span class="ten">㆑</span>黨。亦少<span class="ten">㆓</span>達者<span class="ten">㆒</span>。是以或不<span class="ten">㆑</span>順<span class="ten">㆓</span>君父<span class="ten">㆒</span>。乍違<span class="ten">㆓</span>于隣里<span class="ten">㆒</span>。然上和下睦。諧<span class="ten">㆓</span>於論<span class="ten">㆒㆑</span>事。則事理自通。何事不<span class="ten">㆑</span>成。</p></content>
+      </article>
+      <article eId="art_2">
+        <num>二曰。</num>
+        <content><p>篤敬<span class="ten">㆓</span>三寶<span class="ten">㆒</span>。三寶者<span class="variant">佛法僧也。</span>則四生之終歸。萬國之極宗。何世誰<span class="variant">一作<span class="ten">㆑</span>何</span>人非<span class="ten">㆑</span>貴<span class="ten">㆓</span>是法<span class="ten">㆒</span>。人鮮<span class="ten">㆓</span>尤惡<span class="ten">㆒</span>。能敎從<span class="ten">㆑</span>之。其不<span class="ten">㆑</span>歸<span class="ten">㆓</span>三寶<span class="ten">㆒</span>。何以直<span class="ten">㆑</span>枉。</p></content>
+      </article>
+      <article eId="art_3">
+        <num>三曰。</num>
+        <content><p>承<span class="ten">㆑</span>詔必謹。君則天<span class="ten">㆑</span>之。臣則地<span class="ten">㆑</span>之。天覆臣載。四時順行。萬氣得<span class="ten">㆑</span>通。地欲<span class="ten">㆑</span>覆<span class="ten">㆑</span>天。則致<span class="ten">㆑</span>壞耳。是以君言臣承。上行下效。故承<span class="ten">㆑</span>詔必愼。不<span class="ten">㆑</span>謹自敗。</p></content>
+      </article>
+      <article eId="art_4">
+        <num>四曰。</num>
+        <content><p>群卿百僚。以<span class="ten">㆑</span>禮爲<span class="ten">㆑</span>本。其治民之本。要在<span class="ten">㆓</span>于<span class="variant">一作<span class="ten">㆑</span>乎</span>禮<span class="ten">㆒</span>。上不<span class="ten">㆑</span>禮而下非<span class="ten">㆑</span>齊。下无<span class="ten">㆑</span>禮以必有<span class="ten">㆑</span>罪。是<span class="variant">一有<span class="ten">㆓</span>以字<span class="ten">㆒</span></span>君臣有<span class="ten">㆑</span>禮。位次不亂。百姓有<span class="ten">㆑</span>禮。國家自治。</p></content>
+      </article>
+      <article eId="art_5">
+        <num>五曰。</num>
+        <content><p>絕<span class="ten">㆑</span>饗棄<span class="ten">㆑</span>欲。明辨<span class="ten">㆓</span>訴訟<span class="ten">㆒</span>。其百姓之訟。一日千事。一日尙爾。況乎累歲。湏<span class="ten">㆑</span>治<span class="ten">㆑</span>訟者。得<span class="ten">㆑</span>利爲<span class="ten">㆑</span>常。見<span class="ten">㆑</span>賄廳<span class="ten">㆑</span>讞。便有<span class="ten">㆑</span>財<span class="variant">一有<span class="ten">㆓</span>者字<span class="ten">㆒</span></span>之訟。如<span class="ten">㆓</span>石投<span class="ten">㆒㆑</span>水。乏者之訴。似<span class="ten">㆓</span>水投<span class="ten">㆒㆑</span>石。是以貧民。則不<span class="ten">㆑</span>知<span class="ten">㆓</span>所由<span class="ten">㆒</span>。臣道亦於<span class="ten">㆑</span>焉闕。</p></content>
+      </article>
+      <article eId="art_6">
+        <num>六曰。</num>
+        <content><p>懲<span class="ten">㆑</span>惡勸<span class="ten">㆑</span>善。古之良典。是以无<span class="ten">㆑</span>匿<span class="ten">㆓</span>人善<span class="ten">㆒</span>。見<span class="ten">㆑</span>惡必匡。其諂詐者則爲<span class="ten">㆘</span>覆<span class="ten">㆓</span>國家<span class="ten">㆒</span>之利器<span class="ten">㆖</span>。爲<span class="ten">㆘</span>絕<span class="ten">㆓</span>人民<span class="ten">㆒</span>之鋒刃<span class="ten">㆖</span>。亦佞媚者。對<span class="ten">㆑</span>上則好說<span class="ten">㆓</span>下過<span class="ten">㆒</span>。逢<span class="ten">㆑</span>下則誹<span class="ten">㆓‐</span>謗上失<span class="ten">㆒</span>。其如<span class="ten">㆑</span>此人。皆无<span class="ten">㆑</span>忠<span class="ten">㆓</span>於君<span class="ten">㆒</span>。无<span class="ten">㆑</span>仁<span class="ten">㆓</span>於民<span class="ten">㆒</span>。是大亂之本也。</p></content>
+      </article>
+      <article eId="art_7">
+        <num>七曰。</num>
+        <content><p>人各有<span class="ten">㆓</span>任掌<span class="ten">㆒</span>。宜<span class="ten">㆑</span>不<span class="ten">㆑</span>濫。其賢哲任<span class="ten">㆑</span>官。頌音則起。姦者在<span class="ten">㆑</span>官。禍亂則繁。世少<span class="ten">㆓</span>生知<span class="ten">㆒</span>。尅<span class="variant">一作<span class="ten">㆑</span>克</span>念作<span class="ten">㆑</span>聖。事无<span class="ten">㆓</span>大小<span class="ten">㆒</span>。得<span class="ten">㆑</span>人必治。時无<span class="ten">㆓</span>急緩<span class="ten">㆒</span>。遇<span class="ten">㆑</span>賢自寬。因<span class="ten">㆑</span>此國家永久。社禝勿<span class="ten">㆑</span>危。故古聖王。爲<span class="ten">㆑</span>官以求<span class="ten">㆑</span>人。爲<span class="ten">㆑</span>人不<span class="ten">㆑</span>求<span class="ten">㆑</span>官。</p></content>
+      </article>
+      <article eId="art_8">
+        <num>八曰。</num>
+        <content><p>群卿百僚。早朝晏退。公事靡<span class="ten">㆑</span>譼。終日難<span class="ten">㆑</span>盡。是以遲朝不<span class="ten">㆑</span>逮<span class="ten">㆓</span>于急<span class="ten">㆒</span>。早退必事不<span class="ten">㆑</span>盡。</p></content>
+      </article>
+      <article eId="art_9">
+        <num>九曰。</num>
+        <content><p>信是義本。每<span class="ten">㆑</span>事有<span class="ten">㆑</span>信。其善惡成敗。要在<span class="ten">㆓</span>于信<span class="ten">㆒</span>。群<span class="variant">一作<span class="ten">㆑</span>君</span>臣共<span class="variant">一有<span class="ten">㆓</span>信何事不成群臣字<span class="ten">㆒</span></span>無<span class="ten">㆑</span>信。万事悉敗。</p></content>
+      </article>
+      <article eId="art_10">
+        <num>十曰。</num>
+        <content><p>絕<span class="ten">㆑</span>忿棄<span class="ten">㆑</span>瞋。不<span class="ten">㆑</span>怒<span class="ten">㆓</span>人違<span class="ten">㆒</span>。人皆有<span class="ten">㆑</span>心。心各有<span class="ten">㆑</span>執。彼是則我非。我是則彼非。我必非<span class="ten">㆑</span>聖。彼必非<span class="ten">㆑</span>愚。共是凡夫耳。是非之理。誰<span class="variant">一作<span class="ten">㆑</span>詎</span>能可<span class="ten">㆑</span>定。相共賢愚。如<span class="ten">㆓</span>環无<span class="ten">㆒㆑</span>端。是以彼人雖<span class="ten">㆑</span>瞋。還恐<span class="ten">㆓</span>我失<span class="ten">㆒</span>。我獨雖<span class="ten">㆑</span>得。從<span class="ten">㆑</span>衆同擧。</p></content>
+      </article>
+      <article eId="art_11">
+        <num>十一曰。</num>
+        <content><p>明<span class="ten">㆓‐</span>察功過<span class="ten">㆒</span>。賞罰必當。日者賞不<span class="ten">㆑</span>在<span class="ten">㆑</span>功。罰不<span class="ten">㆑</span>在<span class="ten">㆑</span>罪。執<span class="ten">㆑</span>事群卿。宜<span class="ten">㆑</span>明<span class="ten">㆓</span>賞罰<span class="ten">㆒</span>。</p></content>
+      </article>
+      <article eId="art_12">
+        <num>十二曰。</num>
+        <content><p>國司國造。勿<span class="ten">㆑</span>歛<span class="ten">㆓</span>百姓<span class="ten">㆒</span>。國靡<span class="ten">㆓</span>二君<span class="ten">㆒</span>。民无<span class="ten">㆓</span>兩主<span class="ten">㆒</span>。率土兆民。以<span class="ten">㆑</span>王爲<span class="ten">㆑</span>主。所任官司。皆是王家<span class="variant">一无<span class="ten">㆓</span>家字<span class="ten">㆒</span></span>臣。何敢與<span class="ten">㆑</span>公賦<span class="ten">㆓‐</span>歛百姓<span class="ten">㆒</span>。</p></content>
+      </article>
+      <article eId="art_13">
+        <num>十三曰。</num>
+        <content><p>諸任官者。同知職掌。或病或使。有<span class="ten">㆑</span>闕於事。然得<span class="ten">㆑</span>知之日。和如曾識。其以<span class="ten">㆑</span>非與聞。勿<span class="ten">㆑</span>妨公務。</p></content>
+      </article>
+      <article eId="art_14">
+        <num>十四曰。</num>
+        <content><p>群<span class="variant">一作<span class="ten">㆑</span>臣</span>卿百僚。无<span class="ten">㆑</span>有<span class="ten">㆓</span>嫉妬<span class="ten">㆒</span>。我既嫉<span class="ten">㆑</span>人。人亦嫉<span class="ten">㆑</span>我。嫉妬之患。不<span class="ten">㆑</span>知<span class="ten">㆓</span>其極<span class="ten">㆒</span>。所以智勝<span class="ten">㆓</span>於己<span class="ten">㆒</span>則不<span class="ten">㆑</span>悅。才優<span class="ten">㆓</span>於己<span class="ten">㆒</span>則嫉妬。是以五百歲之後。乃今遇<span class="ten">㆑</span>賢。千載以難<span class="ten">㆑</span>得<span class="ten">㆓</span>一聖<span class="ten">㆒</span>。其不<span class="ten">㆑</span>得<span class="ten">㆓</span>賢聖<span class="ten">㆒</span>。何以治<span class="ten">㆑</span>國。</p></content>
+      </article>
+      <article eId="art_15">
+        <num>十五曰。</num>
+        <content><p>背<span class="ten">㆑</span>私向<span class="ten">㆑</span>公。是臣之道矣。凡<span class="variant">一有<span class="ten">㆓</span>夫字<span class="ten">㆒</span></span>人有<span class="ten">㆑</span>私必有<span class="ten">㆑</span>恨。有<span class="ten">㆑</span>恨必非<span class="ten">㆑</span>固。<span class="variant">一作<span class="ten">㆑</span>同</span>非<span class="ten">㆑</span>固<span class="variant">一作<span class="ten">㆑</span>同</span>則以<span class="ten">㆑</span>私妨<span class="ten">㆑</span>公。恨起則違<span class="ten">㆑</span>制害<span class="ten">㆑</span>法。故初章云。上和下睦。<span class="variant">一作<span class="ten">㆓</span>上下和睦<span class="ten">㆒</span></span>其亦是情歟。</p></content>
+      </article>
+      <article eId="art_16">
+        <num>十六曰。</num>
+        <content><p>使<span class="ten">㆑</span>民以時。古之良典。故冬月有<span class="ten">㆑</span>間。以可<span class="ten">㆑</span>使<span class="ten">㆑</span>民。從<span class="ten">㆑</span>春至<span class="ten">㆑</span>秋。農桑之節。不<span class="ten">㆑</span>可<span class="ten">㆑</span>使<span class="ten">㆑</span>民其不<span class="ten">㆑</span>農何食。不<span class="ten">㆑</span>桑何服。</p></content>
+      </article>
+      <article eId="art_17">
+        <num>十七曰。</num>
+        <content><p>大事不<span class="ten">㆑</span>可<span class="ten">㆓</span>獨斷<span class="ten">㆒</span>。必與<span class="ten">㆑</span>衆宜<span class="ten">㆑</span>論。小事是輕。不<span class="ten">㆑</span>可<span class="ten">㆓</span>必與<span class="ten">㆒㆑</span>衆。唯逮<span class="ten">㆑</span>論<span class="ten">㆓</span>大事<span class="ten">㆒</span>。若<span class="ten">㆑</span>疑有<span class="ten">㆑</span>失。故與<span class="ten">㆑</span>衆相辮。辭則得<span class="ten">㆑</span>理矣。<span class="variant">一无<span class="ten">㆓</span>矣字<span class="ten">㆒</span></span></p></content>
+      </article>
+    </body>
+    <conclusions xml:lang="lzh">
+      <p class="colophon">右十七箇條憲法以屋代弘賢藏本及日本書紀太子傳曆拾芥抄所載挍合各有異同今從是者爲定本</p>
+    </conclusions>
+    <attachments>
+      <attachment eId="att_english">
+        <heading>English translation by W. G. Aston, 1896</heading>
+        <doc name="translation" contains="originalVersion">
+          <meta>
+      <identification source="#gvergottini_en">
+        <FRBRWork>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/!main"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution"/>
+          <FRBRalias value="Seventeen-Article Constitution" name="short"/>
+          <FRBRdate date="0604-01-01" name="promulgation"/>
+          <FRBRauthor href="#shotoku_en" as="#author_en"/>
+          <FRBRcountry value="jp"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/eng@1896-01-01/!main"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution/eng@1896-01-01"/>
+          <FRBRdate date="1896-01-01" name="translation"/>
+          <FRBRauthor href="#aston_en" as="#author_en"/>
+          <FRBRlanguage language="eng"/>
+          <FRBRtranslation href="/akn/jp/act/0604-01-01/seventeen-article-constitution/lzh@0604-01-01" fromLanguage="lzh" by="#aston_en"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/jp/act/0604-01-01/seventeen-article-constitution/eng@1896-01-01/!main.xml"/>
+          <FRBRuri value="/akn/jp/act/0604-01-01/seventeen-article-constitution/eng@1896-01-01.xml"/>
+          <FRBRdate date="2026-11-03" name="markup"/>
+          <FRBRauthor href="#gvergottini_en" as="#editor_en"/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#gvergottini_en">
+        <TLCPerson eId="shotoku_en" href="/ontology/person/jp.princeShotoku" showAs="Prince Shōtoku (attributed)"/>
+        <TLCPerson eId="aston_en" href="/ontology/person/gb.williamGeorgeAston" showAs="William George Aston"/>
+        <TLCPerson eId="gvergottini_en" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author_en" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor_en" href="/ontology/role/editor" showAs="Editor"/>
+      </references>
+          </meta>
+          <preamble>
+            <p>Summer, 4th month, 3rd day. The Prince Imperial in person prepared for the first time laws. There were seventeen clauses, as follows:—</p>
+          </preamble>
+          <mainBody>
+            <article eId="att_english__art_1">
+              <num>I.</num>
+              <content><p>Harmony is to be valued, and an avoidance of wanton opposition to be honoured. All men are influenced by class-feelings, and there are few who are intelligent. Hence there are some who disobey their lords and fathers, or who maintain feuds with the neighbouring villages. But when those above are harmonious and those below are friendly, and there is concord in the discussion of business, right views of things spontaneously gain acceptance. Then what is there which cannot be accomplished!</p></content>
+            </article>
+            <article eId="att_english__art_2">
+              <num>II.</num>
+              <content><p>Sincerely reverence the three treasures. The three treasures, viz. Buddha, the Law and the Priesthood, are the final refuge of the four generated beings, and are the supreme objects of faith in all countries. What man in what age can fail to reverence this law? Few men are utterly bad. They may be taught to follow it. But if they do not betake them to the three treasures, wherewithal shall their crookedness be made straight?</p></content>
+            </article>
+            <article eId="att_english__art_3">
+              <num>III.</num>
+              <content><p>When you receive the Imperial commands, fail not scrupulously to obey them. The lord is Heaven, the vassal is Earth. Heaven overspreads, and Earth upbears. When this is so, the four seasons follow their due course, and the powers of Nature obtain their efficacy. If the Earth attempted to overspread, Heaven would simply fall in ruin. Therefore is it that when the lord speaks, the vassal listens; when the superior acts, the inferior yields compliance. Consequently when you receive the Imperial commands, fail not to carry them out scrupulously. Let there be a want of care in this matter, and ruin is the natural consequence.</p></content>
+            </article>
+            <article eId="att_english__art_4">
+              <num>IV.</num>
+              <content><p>The Ministers and functionaries should make decorous behaviour their leading principle, for the leading principle of the government of the people consists in decorous behaviour. If the superiors do not behave with decorum, the inferiors are disorderly: if inferiors are wanting in proper behaviour, there must necessarily be offences. Therefore it is that when lord and vassal behave with propriety, the distinctions of rank are not confused: when the people behave with propriety, the Government of the Commonwealth proceeds of itself.</p></content>
+            </article>
+            <article eId="att_english__art_5">
+              <num>V.</num>
+              <content><p>Ceasing from gluttony and abandoning covetous desires, deal impartially with the suits which are submitted to you. Of complaints brought by the people there are a thousand in one day. If in one day there are so many, how many will there be in a series of years? If the man who is to decide suits at law makes gain his ordinary motive, and hears causes with a view to receiving bribes, then will the suits of the rich man be like a stone flung into water, while the plaints of the poor will resemble water cast upon a stone. Under these circumstances the poor man will not know whither to betake himself. Here too there is a deficiency in the duty of the Minister.</p></content>
+            </article>
+            <article eId="att_english__art_6">
+              <num>VI.</num>
+              <content><p>Chastise that which is evil and encourage that which is good. This was the excellent rule of antiquity. Conceal not, therefore, the good qualities of others, and fail not to correct that which is wrong when you see it. Flatterers and deceivers are a sharp weapon for the overthrow of the State, and a pointed sword for the destruction of the people. Sycophants are also fond, when they meet, of dilating to their superiors on the errors of their inferiors; to their inferiors, they censure the faults of their superiors. Men of this kind are all wanting in fidelity to their lord, and in benevolence towards the people. From such an origin great civil disturbances arise.</p></content>
+            </article>
+            <article eId="att_english__art_7">
+              <num>VII.</num>
+              <content><p>Let every man have his own charge, and let not the spheres of duty be confused. When wise men are entrusted with office, the sound of praise arises. If unprincipled men hold office, disasters and tumults are multiplied. In this world, few are born with knowledge: wisdom is the product of earnest meditation. In all things, whether great or small, find the right man, and they will surely be well managed: on all occasions, be they urgent or the reverse, meet but with a wise man, and they will of themselves be amenable. In this way will the State be lasting and the Temples of the Earth and of Grain will be free from danger. Therefore did the wise sovereigns of antiquity seek the man to fill the office, and not the office for the sake of the man.</p></content>
+            </article>
+            <article eId="att_english__art_8">
+              <num>VIII.</num>
+              <content><p>Let the Ministers and functionaries attend the Court early in the morning, and retire late. The business of the State does not admit of remissness, and the whole day is hardly enough for its accomplishment. If, therefore, the attendance at Court is late, emergencies cannot be met: if officials retire soon, the work cannot be completed.</p></content>
+            </article>
+            <article eId="att_english__art_9">
+              <num>IX.</num>
+              <content><p>Good faith is the foundation of right. In everything let there be good faith, for in it there surely consists the good and the bad, success and failure. If the lord and the vassal observe good faith one with another, what is there which cannot be accomplished? If the lord and the vassal do not observe good faith towards one another, everything without exception ends in failure.</p></content>
+            </article>
+            <article eId="att_english__art_10">
+              <num>X.</num>
+              <content><p>Let us cease from wrath, and refrain from angry looks. Nor let us be resentful when others differ from us. For all men have hearts, and each heart has its own leanings. Their right is our wrong, and our right is their wrong. We are not unquestionably sages, nor are they unquestionably fools. Both of us are simply ordinary men. How can any one lay down a rule by which to distinguish right from wrong? For we are all, one with another, wise and foolish, like a ring which has no end. Therefore, although others give way to anger, let us on the contrary dread our own faults, and though we alone may be in the right, let us follow the multitude and act like them.</p></content>
+            </article>
+            <article eId="att_english__art_11">
+              <num>XI.</num>
+              <content><p>Give clear appreciation to merit and demerit, and deal out to each its sure reward or punishment. In these days, reward does not attend upon merit, nor punishment upon crime. Ye high functionaries who have charge of public affairs, let it be your task to make clear rewards and punishments.</p></content>
+            </article>
+            <article eId="att_english__art_12">
+              <num>XII.</num>
+              <content><p>Let not the provincial authorities or the Kuni no Miyakko levy exactions on the people. In a country there are not two lords; the people have not two masters. The sovereign is the master of the people of the whole country. The officials to whom he gives charge are all his vassals. How can they, as well as the Government, presume to levy taxes on the people?</p></content>
+            </article>
+            <article eId="att_english__art_13">
+              <num>XIII.</num>
+              <content><p>Let all persons entrusted with office attend equally to their functions. Owing to their illness or to their being sent on missions, their work may sometimes be neglected. But whenever they become able to attend to business, let them be as accommodating as if they had had cognizance of it from before, and not hinder public affairs on the score of their not having had to do with them.</p></content>
+            </article>
+            <article eId="att_english__art_14">
+              <num>XIV.</num>
+              <content><p>Ye ministers and functionaries! Be not envious. For if we envy others, they in turn will envy us. The evils of envy know no limit. If others excel us in intelligence, it gives us no pleasure; if they surpass us in ability, we are envious. Therefore it is not until after a lapse of five hundred years that we at last meet with a wise man, and even in a thousand years we hardly obtain one sage. But if we do not find wise men and sages, wherewithal shall the country be governed?</p></content>
+            </article>
+            <article eId="att_english__art_15">
+              <num>XV.</num>
+              <content><p>To turn away from that which is private, and to set our faces towards that which is public—this is the path of a Minister. Now if a man is influenced by private motives, he will assuredly feel resentments, and if he is influenced by resentful feelings, he will assuredly fail to act harmoniously with others. If he fails to act harmoniously with others, he will assuredly sacrifice the public interests to his private feelings. When resentment arises, it interferes with order, and is subversive of law. Therefore in the first clause it was said, that superiors and inferiors should agree together. The purport is the same as this.</p></content>
+            </article>
+            <article eId="att_english__art_16">
+              <num>XVI.</num>
+              <content><p>Let the people be employed (in forced labour) at seasonable times. This is an ancient and excellent rule. Let them be employed, therefore, in the winter months, when they are at leisure. But from Spring to Autumn, when they are engaged in agriculture or with the mulberry trees, the people should not be so employed. For if they do not attend to agriculture, what will they have to eat? if they do not attend to the mulberry trees, what will they do for clothing?</p></content>
+            </article>
+            <article eId="att_english__art_17">
+              <num>XVII.</num>
+              <content><p>Decisions on important matters should not be made by one person alone. They should be discussed with many. But small matters are of less consequence. It is unnecessary to consult a number of people. It is only in the case of the discussion of weighty affairs, when there is a suspicion that they may miscarry, that one should arrange matters in concert with others, so as to arrive at the right conclusion.</p></content>
+            </article>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </act>
+</akomaNtoso>
