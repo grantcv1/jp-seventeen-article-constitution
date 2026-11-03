@@ -21,13 +21,16 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 - **Variant readings:** The source's interlinear notes on variants are kept in `<span class="variant">`.
 - **Colophon:** The note by the editors of the Gunsho Ruiju is in `<conclusions>`.
 - **English translation:** The translation is a `<doc name="translation">` in an `<attachment>`, with its own metadata. `FRBRtranslation` links it to the classical Chinese expression, and its article eIds use the same numbers with an `att_english__` prefix. Aston's footnotes are omitted.
+- **Identifiers:** Every element with an `eId` also has a `GUID`. Text-level `<p>` elements have neither.
 - **Dates:** The Nihon Shoki dates the text to the 3rd day of the 4th month of the 12th year of Empress Suiko. `0604-01-01` is a nominal date, used because the schema needs a full date.
 - **Jurisdiction:** The URIs use `jp`.
 
 ## Sources
 
 - Classical Chinese text: the Gunsho Ruiju, volume 474, as given on [Japanese Wikisource](https://ja.wikisource.org/wiki/十七条憲法). The Gunsho Ruiju text was collated from several sources, as its colophon states.
-- English translation: W. G. Aston, *Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697* (1896), volume 2, pages 129 to 133, from the [Internet Archive](https://archive.org/details/nihongi2asto). The text there is machine-read. Page furniture and footnote marks were removed, and scanning errors were corrected.
+- English translation: W. G. Aston, *Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697* (1896), volume 2, pages 129 to 133, from the [Internet Archive](https://archive.org/details/nihongi2asto). The text there is machine-read and is given verbatim. Only line breaks, line-end hyphens, page headings and the footnotes themselves were removed. The translation's article numbers carry into its eIds as roman numerals, so `att_english__art_IX` is Article IX.
+
+Scanning errors and stray footnote marks remain as the scan gives them, and they have not been checked against the printed volume. Examples are "fallin" for "fall in", "Ifin", "Ifthe" and "Weare", "-are" in Article VI, the marks after "valued,", "beings,", "behaviour.", "water,", "authorities" and "matters", and the "|" after Article I.
 
 Aston translated the Nihongi, not the Gunsho Ruiju, so the two texts here differ in places. Article IX is an example. His translation also reflects his own reading, and modern translations may differ. The attribution to Prince Shōtoku is traditional, and scholars debate how much of the text dates from 604.
 
