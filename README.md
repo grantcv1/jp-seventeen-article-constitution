@@ -37,3 +37,13 @@ Aston translated the Nihongi, not the Gunsho Ruiju, so the two texts here differ
 ## Fonts
 
 The stylesheet embeds a subset of Noto Serif JP and Old Standard TT, both licensed under the [SIL Open Font License](https://openfontlicense.org/). The rendering is a modern design and does not reproduce any manuscript or printed edition.
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** The Classical Chinese text and W. G. Aston's English translation (1896). Believed to be in the public domain. Details are under Sources above.
+- **Images:** None.
+- **Fonts:** Noto Serif JP and Old Standard TT, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
